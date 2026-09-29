@@ -7,3 +7,7 @@ __pycache__/
 *.pyc
 
 .mypy_cache/
+
+.idea/
+
+.toml
